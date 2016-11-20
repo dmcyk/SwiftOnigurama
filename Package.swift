@@ -6,6 +6,6 @@ let package = Package(
         Target(name: "SwiftOnigurama")
     ],
     dependencies: [
-        .Package(url: "https://github.com/osjup/Coniguruma.git", majorVersion: 0)
+        .Package(url: "https://github.com/dmcyk/Coniguruma.git", majorVersion: 0)
     ]
 )
